@@ -5,6 +5,8 @@ import FooterWrapper from './Footer/FooterWrapper'
 import '../styles/App.css';
 
 const App = () => {
+ 
+
   return (
     <>
       <NavWrapper />
